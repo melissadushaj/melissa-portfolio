@@ -12,76 +12,12 @@ body {
   font-family: "Instrument Serif", Georgia, serif;
 }
 
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 24px 48px;
-}
-
-.navbar-logo {
-  font-size: 20px;
-}
-
-.navbar-links {
-  display: flex;
-  gap: 48px;
-}
-
-.navbar-links a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 20px;
-}
-
-.navbar-links a:hover {
-  text-decoration: underline;
-}
-
-.home {
-  padding: 48px 0px 48px 48px;
-}
-
 h1 {
   font-weight: 400;
 }
 
-.home-heading {
-  font-size: 160px;
-  font-weight: 400;
-  line-height: 1;
-  margin-bottom: 80px;
-  -webkit-font-smoothing: antialiased;
+section {
+  min-height: 100vh;
+  padding-top: 96px;
 }
 
-.home-bottom {
-  display: flex;
-  align-items: center;
-  gap: 80px;
-  margin-left: 300px;
-}
-
-.home-photo {
-  width: 160px;
-  height: 200px;
-  object-fit: cover;
-}
-
-.home-bio {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.home-bio p {
-  font-size: 28px;
-  line-height: 1.3;
-  max-width: 400px;
-}
-
-.home-bio a {
-  color: #fff;
-  text-decoration: none;
-  font-style: italic;
-  font-size: 16px;
-}
