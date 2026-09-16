@@ -1,9 +1,9 @@
 const projects = [
   {
     title: "Specd",
-    image: "/specs-preview.png",
+    image: "/Specd_Logo_2.png",
     description: "Social platform for car enthusiasts. Post builds and track its progress, host and discover local meets, and connect with other like minded people.",
-    tech: "React, Node JS, CSS",
+    tech: "React, Vite, Vercel",
     github: "https://github.com/YOUR_USERNAME/specs"
   },
   {

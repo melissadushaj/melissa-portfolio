@@ -178,6 +178,7 @@
   height: 180px;
   object-fit: cover;
   flex-shrink: 0;
+  border-radius: 8px;
 }
 
 .project-info {
