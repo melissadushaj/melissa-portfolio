@@ -28,16 +28,16 @@ function About() {
               <p>Energetic</p>
             </div>
             <div className="skill-column">
-              <h3>Languages</h3>
-              <p>English</p>
-              <p>Albanian</p>
-              <p>Japanese</p>
-            </div>
-            <div className="skill-column">
               <h3>Tools</h3>
               <p>Git</p>
               <p>VS Code</p>
               <p>Figma</p>
+            </div>
+            <div className="skill-column">
+              <h3>Languages</h3>
+              <p>English</p>
+              <p>Albanian</p>
+              <p>Japanese</p>
             </div>
           </div>
 
