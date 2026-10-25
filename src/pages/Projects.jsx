@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Wishbone",
-    image: "/filedit-preview.png",
+    image: "/wishbonelogo.png",
     description: "Web app to organize job applications. Keep track of each job, the posting, requirements, resume and cover letter uploaded, and status of application.",
     tech: "React, Node JS, CSS",
     github: "https://github.com/YOUR_USERNAME/filedit"
